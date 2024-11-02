@@ -11,7 +11,7 @@
     curl -X POST http://192.168.31.1/cgi-bin/luci/;stok=xxx/api/xqsystem/start_binding -d "uid=1234&key=1234'%0A%2Fetc%2Finit.d%2Fdropbear%20start'"
 
 ### 2、登录路由器
-工具下载：[Putty下载>>](https://github.com/uyez/lyq/releases/download/rom/putty.zip)
+工具下载：[Putty下载>>](https://github.com/kjqq/AX3000E/releases/download/rom/putty.zip)
 通过SSH登录，用户名是：root，密码通过网站计算，[密码计算网站>>](https://miwifi.dev/ssh)
 更改SSH登录密码，执行以下指令：（修改之后的用户名是：root，密码是：admin）
 
