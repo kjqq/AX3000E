@@ -1,7 +1,7 @@
 # 小米Xiaomi路由器 AX3000E 解锁SSH和科学上网教程
 本教程一共分为两个部分，第一个是解锁SSH，第二个是安装ShellClash科学上网。在小米路由器原来的固件上安装科学上网软件，不影响路由器原有的功能，并且支持全屋科学上网。BE3600和AX3000T和BE6500也可以参考本教程。
 
-## 一、小米路由器 BE6500 解锁SSH教程
+## 一、小米路由器 AX3000E 解锁SSH教程
 
 ### 1、Windows搜索cmd，以管理员身份运行：
 
@@ -37,8 +37,7 @@
     uci set firewall.auto_ssh.enabled='1'
     uci commit firewall
 
-## 二、小米路由器 BE6500 安装 ShellCrash 科学上网教程
-视频教程：▶https://youtu.be/Z9hr7bGhA7M
+## 二、小米路由器 AX3000E 安装 ShellCrash 科学上网教程
 
 **Clash安装源：**
 
